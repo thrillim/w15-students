@@ -1,0 +1,82 @@
+[
+  {
+    "id": 21020754,
+    "name": "Benedetto Cran",
+    "birthDate": "2001-05-11",
+    "gender": "Male",
+    "hometown": "Malati",
+    "classId": "311mk"
+  },
+  {
+    "id": 21021536,
+    "name": "Dania Mouland",
+    "birthDate": "2001-10-21",
+    "gender": "Female",
+    "hometown": "Ngepoh Kidul",
+    "classId": "311mk"
+  },
+  {
+    "id": 21021587,
+    "name": "Arlena Callinan",
+    "birthDate": "2002-07-23",
+    "gender": "Female",
+    "hometown": "New York",
+    "classId": "311mk"
+  },
+  {
+    "id": 21022766,
+    "name": "Gaye Vannoni",
+    "birthDate": "2002-02-14",
+    "gender": "Female",
+    "hometown": "San Miguel de Tucumán",
+    "classId": "311mk"
+  },
+  {
+    "id": 21024020,
+    "name": "Aarika Basterfield",
+    "birthDate": "2002-12-28",
+    "gender": "Non-binary",
+    "hometown": "Hondo",
+    "classId": "311mk"
+  },
+  {
+    "id": 21028207,
+    "name": "Vinson Dowyer",
+    "birthDate": "2002-04-21",
+    "gender": "Male",
+    "hometown": "Manchester",
+    "classId": "311mk"
+  },
+  {
+    "id": 21028412,
+    "name": "Carolyne Pietraszek",
+    "birthDate": "2002-07-25",
+    "gender": "Female",
+    "hometown": "Nanhe",
+    "classId": "311mk"
+  },
+  {
+    "id": 21028430,
+    "name": "Paulie Tunnadine",
+    "birthDate": "2002-05-25",
+    "gender": "Female",
+    "hometown": "Seget",
+    "classId": "311mk"
+  },
+  {
+    "id": 21028681,
+    "name": "John Figger",
+    "birthDate": "2001-10-25",
+    "gender": "Male",
+    "hometown": "Brooklyn",
+    "classId": "311mk"
+  },
+  {
+    "id": 21028731,
+    "name": "Nickey Thredder",
+    "birthDate": "2002-06-12",
+    "gender": "Male",
+    "hometown": "Derbur",
+    "classId": "311mk"
+  }
+]
